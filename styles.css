@@ -116,7 +116,7 @@ form .form-row .textarea{
 .submit-btn .input-data:hover .inner{
   left: 0;
 }
-.submit-btn .input-data input{
+.submit-btn .input-data a{
   background: none;
   border: none;
   color: #fff;
